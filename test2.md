@@ -1,6 +1,7 @@
-## fMRI Template Collections
-
 <div align="center">
+
+
+## fMRI Template Collections
 
 | Single-scale model order | Multi-scale model order | Developmental templates |
 |:--|:--|:--|
