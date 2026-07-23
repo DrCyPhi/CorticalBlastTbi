@@ -1,39 +1,23 @@
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="./fMRI">
-<img src="images/fmri.png" width="120"><br>
-<b>fMRI</b>
-</a><br>
-Single-scale, Multi-scale,<br>
-Developmental
-</td>
+```md
+## fMRI Template Collections
 
-<td align="center" width="25%">
-<a href="./PET-SPECT">
-<img src="images/pet.png" width="120"><br>
-<b>PET/SPECT</b>
-</a><br>
-PET templates<br>
-SPECT templates
-</td>
+| Single-scale model order | Multi-scale model order | Developmental templates |
+|:--|:--|:--|
+| Templates estimated at one selected model order. | Templates spanning multiple model orders or tissue types. | Population-specific templates across the lifespan. |
+| [Low-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order) | [White Matter](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/White-Matter(WM)) | [Infants](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/infants) |
+| [High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order) | [Gray Matter](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Gray-Matter(GM)) | [Children](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/children) |
+| [Ultra-high-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order) | [White Matter + Gray Matter](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/WM+GM) | [Aging adults](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/aging_adults) |
+| [Single-scale overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/README.md) | [Disease-specific](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Disease_Specific)<br>[Multi-scale overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/README.md) | [Developmental overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/README.md) |
 
-<td align="center" width="25%">
-<a href="./sMRI">
-<img src="images/smri.png" width="120"><br>
-<b>sMRI</b>
-</a><br>
-Low-order<br>
-High-order
-</td>
+---
 
-<td align="center" width="25%">
-<a href="./dMRI">
-<img src="images/dmri.png" width="120"><br>
-<b>dMRI</b>
-</a><br>
-High-order
-</td>
+## Browse by Imaging Modality
 
-</tr>
-</table>
+| [![fMRI](https://picsum.photos/250/160?random=1)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI) | [![PET/SPECT](https://picsum.photos/250/160?random=2)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT) | [![sMRI](https://picsum.photos/250/160?random=3)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI) | [![dMRI](https://picsum.photos/250/160?random=4)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI) |
+|:--:|:--:|:--:|:--:|
+| **[fMRI](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI)** | **[PET / SPECT](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT)** | **[sMRI](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI)** | **[dMRI](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI)** |
+| Functional brain-network templates | Molecular-imaging templates | Structural MRI templates | Diffusion MRI templates |
+| [Single-scale](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale)<br>[Multi-scale](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale)<br>[Developmental](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental) | [PET](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/PET)<br>[SPECT](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/SPECT) | [Low-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/low-order)<br>[High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/high-order) | [High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI/high-order) |
+| [fMRI overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/README.md) | [PET/SPECT overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/README.md) | [sMRI overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/README.md) | [dMRI overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI/README.md) |
+
+```
