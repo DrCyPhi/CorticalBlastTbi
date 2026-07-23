@@ -7,19 +7,13 @@
 <table>
   <tr>
     <th align="left">
-      <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale">
         Single-scale model order
-      </a>
     </th>
     <th align="left">
-      <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale">
         Multi-scale model order
-      </a>
     </th>
     <th align="left">
-      <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental">
         Developmental
-      </a>
     </th>
   </tr>
 
@@ -52,24 +46,16 @@
 <table>
   <tr>
     <th align="left">
-      <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale">
         PET/SPECT
-      </a>
     </th>
     <th align="left">
-      <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale">
        sMRI
-      </a>
     </th>
     <th align="left">
-      <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental">
         dMRI
-      </a>
     </th>
     <th align="legacy">
-      <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental">
         Legacy
-      </a>
     </th>
   </tr>
   <tr>
