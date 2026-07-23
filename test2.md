@@ -1,7 +1,5 @@
-## fMRI Template Collections
-
 <div align="center">
-
+## fMRI Template Collections
 | Single-scale model order | Multi-scale model order | Developmental templates |
 |:--|:--|:--|
 | Templates estimated at one selected model order. | Templates spanning multiple model orders or tissue types. | Population-specific templates across the lifespan. |
