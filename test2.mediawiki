@@ -55,6 +55,17 @@
 Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">RSN_28 (model order 75)</a>
 <hr>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"><br>
+      Hello
+    </td>
+    <td>World</td>
+  </tr>
+</table>
+
+
 <h2>Additional Modalities</h2>
 <table>
   <tr>
