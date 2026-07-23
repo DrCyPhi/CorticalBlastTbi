@@ -7,13 +7,16 @@
 <table>
   <tr>
     <th align="left">
-        Single-scale model order
+        Single-scale model order<BR>
+        _____________________________________
     </th>
     <th align="left">
-        Multi-scale model order
+        Multi-scale model order<BR>
+        _____________________________________
     </th>
     <th align="left">
-        Developmental
+        Developmental<BR>
+        _____________________________________
     </th>
   </tr>
 
