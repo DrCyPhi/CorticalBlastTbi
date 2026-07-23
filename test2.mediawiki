@@ -73,7 +73,7 @@ Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki
   </tr>
   <tr>
     <td valign="top">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"><br><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Low-order</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">High-order</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Ultra-high-order</a><br>
