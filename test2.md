@@ -7,8 +7,7 @@
 |:--|:--|:--|
 | Templates estimated at one selected model order. | Templates spanning multiple model orders or tissue types. | Population-specific templates across the lifespan. |
 | [Low-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order) | [White Matter](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/White-Matter(WM)) | [Infants](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/infants) |
-| [High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order) | sMRI
- ├── <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/low-order">low-order/</a>  <br> ├── <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/high-order">high-order/</a>    <br>  └── <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/README.md">README.md</a>|
+| [High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order) | **Single-scale**<br>&nbsp;&nbsp;• Low-order<br>&nbsp;&nbsp;• High-order<br>&nbsp;&nbsp;• Ultra-high-order<br><br>**Multi-scale**<br>&nbsp;&nbsp;• White Matter<br>&nbsp;&nbsp;• Gray Matter |
 | [Ultra-high-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order) | [White Matter + Gray Matter](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/WM+GM) | [Aging adults](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/aging_adults) |
 |  | dis spes | |
 
