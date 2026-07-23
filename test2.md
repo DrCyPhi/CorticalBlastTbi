@@ -10,6 +10,7 @@
 | [Ultra-high-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order) | [White Matter + Gray Matter](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/WM+GM) | [Aging adults](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/aging_adults) |
 
 ---
+## Other Template Collections
 | [![PET/SPECT](https://picsum.photos/250/160?random=2)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT) | [![sMRI](https://picsum.photos/250/160?random=3)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI) | [![dMRI](https://picsum.photos/250/160?random=4)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI) |
 |:--:|:--:|:--:|
 | **[PET / SPECT](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT)** | **[sMRI](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI)** | **[dMRI](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI)** |
