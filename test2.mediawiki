@@ -69,7 +69,7 @@
     </th>
     <th align="legacy">
       <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental">
-        dMRI
+        Legacy
       </a>
     </th>
   </tr>
