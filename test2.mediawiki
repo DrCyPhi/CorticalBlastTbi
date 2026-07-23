@@ -73,12 +73,14 @@ Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki
   </tr>
   <tr>
     <td valign="top">
+<img src="https://raw.githubusercontent.com/USER/REPO/main/doc/wiki/images/pet.png" width="80">
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Low-order</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">High-order</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Ultra-high-order</a><br>
     </td>
 
     <td valign="top">
+<img src="https://raw.githubusercontent.com/USER/REPO/main/doc/wiki/images/pet.png" width="80">
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/White-Matter(WM)">White Matter (WM)</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Gray-Matter(GM)">Gray Matter (GM)</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/WM+GM">WM + GM</a><br>
