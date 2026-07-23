@@ -67,7 +67,7 @@ Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki
     <th align="left">
         dMRI
     </th>
-    <th align="legacy">
+    <th align="left">
         Legacy
     </th>
   </tr>
@@ -80,7 +80,6 @@ Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki
     </td>
 
     <td valign="top">
-<img src="https://raw.githubusercontent.com/USER/REPO/main/doc/wiki/images/pet.png" width="80">
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/White-Matter(WM)">White Matter (WM)</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Gray-Matter(GM)">Gray Matter (GM)</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/WM+GM">WM + GM</a><br>
