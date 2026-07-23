@@ -24,15 +24,15 @@
     <td valign="top">
       &#8226; Low-order<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Neuromark_fMRI_2.0_modelorder-25</a><br>
+  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Neuromark fMRI 2.0 modelorder-25</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Neuromark_fMRI_1.0 (model order 100)</a><br>
+  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Neuromark fMRI 1.0 (model order 100)</a><br>
       &#8226; High-order<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">Neuromark_fMRI_2.0_modelorder-175</a><br>
+  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">Neuromark fMRI 2.0 modelorder-175</a><br>
       &#8226; Ultra-high-order<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark_fMRI_2.2_modelorder-500</a><br>
+  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark fMRI 2.2 modelorder-500</a><br>
     </td>
 
     <td valign="top">
@@ -42,7 +42,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
   <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Disease_Specific">Disease Specific</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark_fMRI_2.2_modelorder-500</a><br>
+  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark fMRI 2.2 modelorder-500</a><br>
     </td>
 
     <td valign="top">
@@ -50,7 +50,7 @@
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/children">Children</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/aging_adults">Aging adults</a><br>
       &#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark_fMRI_2.2_modelorder-500</a><br>
+  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark fMRI 2.2 modelorder-500</a><br>
     </td>
   </tr>
 </table>
