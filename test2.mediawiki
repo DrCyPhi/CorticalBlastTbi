@@ -50,6 +50,7 @@
 
 <hr>
 
+<h2>Other Template Collections</h2>
 <table>
   <tr>
     <th align="left">
