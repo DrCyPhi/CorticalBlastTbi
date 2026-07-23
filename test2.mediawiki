@@ -4,7 +4,7 @@
 
 <h2>Functional MRI</h2>
 
-<table>
+<table width="100%">
   <tr>
     <th align="left">
         Single-scale model order
