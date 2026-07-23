@@ -8,15 +8,15 @@
   <tr>
     <th align="left">
         Single-scale model order<BR>
-        OOOOOOOOOOOOOOOOOOOOOOOOO
+        OOOOOOOOOOOOOOOOOOOOOO
     </th>
     <th align="left">
         Multi-scale model order<BR>
-        OOOOOOOOOOOOOOOOOOOOOOOOO
+        OOOOOOOOOOOOOOOOOOOOOO
     </th>
     <th align="left">
         Developmental<BR>
-        OOOOOOOOOOOOOOOOOOOOOOOOO
+        OOOOOOOOOOOOOOOOOOOOOO
     </th>
   </tr>
 
