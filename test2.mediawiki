@@ -63,7 +63,7 @@ Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki
 <table>
 <tr>
 <td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/120px-Octicons-mark-github.svg.png" width="80" alt="GitHub"><br>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png)<br>PET | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/64px-Octicons-mark-github.svg.png)<br>
 Markdown
 </td>
 <td align="center">
