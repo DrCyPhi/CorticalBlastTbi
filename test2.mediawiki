@@ -2,7 +2,7 @@
 
 <h2>fMRI Template Collections</h2>
 
-<table>
+<table border="0">
   <tr>
     <th align="left">
       <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale">
