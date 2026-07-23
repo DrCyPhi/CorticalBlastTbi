@@ -1,4 +1,3 @@
-```html
 <h2>fMRI Template Collections</h2>
 
 <table>
@@ -52,4 +51,3 @@
 
   </tr>
 </table>
-```
