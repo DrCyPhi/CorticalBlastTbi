@@ -1,4 +1,4 @@
-##NeuroMark Templates
+<h1>NeuroMark Templates</h1>
 
 * '''fMRI'''
 ** '''Single-scale model order'''
