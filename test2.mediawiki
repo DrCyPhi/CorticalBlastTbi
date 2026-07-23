@@ -39,7 +39,6 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
   <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Disease_Specific">Disease Specific</a><br>
       &#8226;
-      &#8226;
   <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark_fMRI_2.2_modelorder-500</a><br>
     </td>
 
