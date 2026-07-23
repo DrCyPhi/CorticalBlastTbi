@@ -10,7 +10,7 @@
 
 ---
 | [![PET/SPECT](https://picsum.photos/250/160?random=2)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT) | [![sMRI](https://picsum.photos/250/160?random=3)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI) | [![dMRI](https://picsum.photos/250/160?random=4)](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI) |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | **[PET / SPECT](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT)** | **[sMRI](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI)** | **[dMRI](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI)** |
 | Molecular-imaging templates | Structural MRI templates | Diffusion MRI templates |
 | [PET](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/PET)<br>[SPECT](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/SPECT) | [Low-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/low-order)<br>[High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/high-order) | [High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI/high-order) |
