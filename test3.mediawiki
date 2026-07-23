@@ -1,55 +1,35 @@
-= 🧠 NeuroMark Template =
+'''🧠 NeuroMark Templates'''
 
-== 🧠 fMRI ==
+* '''🧠 fMRI'''
+** '''Single-scale model order'''
+*** [[fMRI/single_scale/low-order|Low-order]]
+*** [[fMRI/single_scale/high-order|High-order]]
+*** [[fMRI/single_scale/ultra-high-order|Ultra-high-order]]
+*** [[fMRI/single_scale/README|Overview]]
 
-* '''Single-scale model order'''
-** [[fMRI/single_scale/low-order|Low-order]]
-** [[fMRI/single_scale/high-order|High-order]]
-** [[fMRI/single_scale/ultra-high-order|Ultra-high-order]]
-** [[fMRI/single_scale/README|Overview]]
+** '''Multi-scale model order'''
+*** [[fMRI/multi_scale/White-Matter(WM)|White Matter (WM)]]
+*** [[fMRI/multi_scale/Gray-Matter(GM)|Gray Matter (GM)]]
+*** [[fMRI/multi_scale/WM+GM|WM + GM]]
+**** [[fMRI/multi_scale/Disease_Specific|Disease-specific]]
+*** [[fMRI/multi_scale/README|Overview]]
 
-* '''Multi-scale model order'''
-** [[fMRI/multi_scale/White-Matter(WM)|White Matter (WM)]]
-** [[fMRI/multi_scale/Gray-Matter(GM)|Gray Matter (GM)]]
-** [[fMRI/multi_scale/WM+GM|WM + GM]]
-*** [[fMRI/multi_scale/Disease_Specific|Disease-specific]]
-** [[fMRI/multi_scale/README|Overview]]
+** '''Developmental'''
+*** [[fMRI/developmental/infants|Infants]]
+*** [[fMRI/developmental/children|Children]]
+*** [[fMRI/developmental/aging_adults|Aging adults]]
+*** [[fMRI/developmental/README|Overview]]
 
-* '''Developmental'''
-** [[fMRI/developmental/infants|Infants]]
-** [[fMRI/developmental/children|Children]]
-** [[fMRI/developmental/aging_adults|Aging adults]]
-** [[fMRI/developmental/README|Overview]]
+* '''☢ PET / SPECT'''
+** [[PET-SPECT/PET|PET]]
+** [[PET-SPECT/SPECT|SPECT]]
+** [[PET-SPECT/README|Overview]]
 
-----
-
-== ☢ PET / SPECT ==
-
-* '''PET'''
-** [[PET-SPECT/PET|Templates]]
-
-* '''SPECT'''
-** [[PET-SPECT/SPECT|Templates]]
-
-* [[PET-SPECT/README|Overview]]
-
-----
-
-== 🧠 Structural MRI (sMRI) ==
-
-* '''Template Collections'''
+* '''🧠 Structural MRI (sMRI)'''
 ** [[sMRI/low-order|Low-order]]
 ** [[sMRI/high-order|High-order]]
 ** [[sMRI/README|Overview]]
 
-----
-
-== 🌐 Diffusion MRI (dMRI) ==
-
-* '''Template Collections'''
+* '''🌐 Diffusion MRI (dMRI)'''
 ** [[dMRI/high-order|High-order]]
 ** [[dMRI/README|Overview]]
-
-----
-
-* [[README|Main Overview]]
