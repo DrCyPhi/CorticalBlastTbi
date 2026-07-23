@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-Legacy Templates includes: bla bla
+Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">RSN_28 (model order 75)</a>, 
 <hr>
 
 <h2>Additional Modalities</h2>
