@@ -23,7 +23,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
   <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Neuromark_fMRI_2.0_modelorder-25</a><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">?Neuromark_fMRI_1.0 (model order 100)?</a><br>
+  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Neuromark_fMRI_1.0 (model order 100)</a><br>
       &#8226; High-order<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
   <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">Neuromark_fMRI_2.0_modelorder-175</a><br>
