@@ -1,4 +1,3 @@
-```md
 ## fMRI Template Collections
 
 | Single-scale model order | Multi-scale model order | Developmental templates |
@@ -19,5 +18,3 @@
 | Functional brain-network templates | Molecular-imaging templates | Structural MRI templates | Diffusion MRI templates |
 | [Single-scale](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale)<br>[Multi-scale](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale)<br>[Developmental](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental) | [PET](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/PET)<br>[SPECT](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/SPECT) | [Low-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/low-order)<br>[High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/high-order) | [High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI/high-order) |
 | [fMRI overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/README.md) | [PET/SPECT overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/README.md) | [sMRI overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/README.md) | [dMRI overview](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI/README.md) |
-
-```
