@@ -1,5 +1,7 @@
 ## fMRI Template Collections
 
+<div align="center">
+
 | Single-scale model order | Multi-scale model order | Developmental templates |
 |:--|:--|:--|
 | Templates estimated at one selected model order. | Templates spanning multiple model orders or tissue types. | Population-specific templates across the lifespan. |
@@ -14,3 +16,4 @@
 | Molecular-imaging templates | Structural MRI templates | Diffusion MRI templates |
 | [PET](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/PET)<br>[SPECT](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/PET-SPECT/SPECT) | [Low-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/low-order)<br>[High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/sMRI/high-order) | [High-order](https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/dMRI/high-order) |
 
+</div>
