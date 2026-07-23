@@ -52,6 +52,7 @@
   </tr>
 </table>
 
+Legacy Templates includes: bla bla
 <hr>
 
 <h2>Additional Modalities</h2>
