@@ -4,7 +4,7 @@
 
 <h2>Functional MRI</h2>
 
-<table width="100%">
+<table>
   <tr>
     <th align="left">
         Single-scale model order
@@ -14,9 +14,6 @@
     </th>
     <th align="left">
         Developmental
-    </th>
-    <th align="left">
-        Legacy
     </th>
   </tr>
 
@@ -53,11 +50,6 @@
       &#8226;
   <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark_fMRI_2.2_modelorder-500</a><br>
     </td>
-    <td valign="top">
-&#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark_fMRI_2.2_modelorder-500</a><br>
-    </td>
-  </tr>
 </table>
 
 <hr>
