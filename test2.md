@@ -22,31 +22,25 @@
   <tr>
 
     <td valign="top">
-      <ul>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Low-order</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">High-order</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Ultra-high-order</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/README.md">README.md</a></li>
-      </ul>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Low-order</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">High-order</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Ultra-high-order</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/README.md">README.md</a>
     </td>
 
     <td valign="top">
-      <ul>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/White-Matter(WM)">White Matter (WM)</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Gray-Matter(GM)">Gray Matter (GM)</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/WM+GM">WM + GM</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Disease_Specific">Disease Specific</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/README.md">README.md</a></li>
-      </ul>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/White-Matter(WM)">White Matter (WM)</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Gray-Matter(GM)">Gray Matter (GM)</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/WM+GM">WM + GM</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/Disease_Specific">Disease Specific</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/multi_scale/README.md">README.md</a>
     </td>
 
     <td valign="top">
-      <ul>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/infants">Infants</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/children">Children</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/aging_adults">Aging adults</a></li>
-        <li><a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/README.md">README.md</a></li>
-      </ul>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/infants">Infants</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/children">Children</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/aging_adults">Aging adults</a><br>
+      &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/README.md">README.md</a>
     </td>
 
   </tr>
