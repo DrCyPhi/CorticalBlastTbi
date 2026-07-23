@@ -26,7 +26,6 @@
   </tr>
 
   <tr>
-
     <td valign="top">
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Low-order</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">High-order</a><br>
@@ -46,7 +45,6 @@
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/children">Children</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/developmental/aging_adults">Aging adults</a><br>
     </td>
-
   </tr>
 </table>
 
@@ -75,7 +73,7 @@
       </a>
     </th>
   </tr>
-
+  <tr>
     <td valign="top">
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/low-order">Low-order</a><br>
       &#8226; <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/high-order">High-order</a><br>
