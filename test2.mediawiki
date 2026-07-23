@@ -57,14 +57,15 @@ Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki
 
 <table>
   <tr>
-    <td>
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80"><br>
+    <td valign="top">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub logo"><br>
       Hello
     </td>
-    <td>World</td>
+    <td valign="top">
+      World
+    </td>
   </tr>
 </table>
-
 
 <h2>Additional Modalities</h2>
 <table>
