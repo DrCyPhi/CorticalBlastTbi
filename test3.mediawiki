@@ -4,27 +4,40 @@
 ** '''Single-scale model order'''
 *** '''Low-order'''
 **** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
-*** [[fMRI/single_scale/high-order|High-order]]
-*** [[fMRI/single_scale/ultra-high-order|Ultra-high-order]]
+*** '''High-order'''
+**** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
+*** '''Ultra-high-order'''
+**** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
 
 ** '''Multi-scale model order'''
-*** [[fMRI/multi_scale/White-Matter(WM)|White Matter (WM)]]
-*** [[fMRI/multi_scale/Gray-Matter(GM)|Gray Matter (GM)]]
-*** [[fMRI/multi_scale/WM+GM|WM + GM]]
-**** [[fMRI/multi_scale/Disease_Specific|Disease-specific]]
+*** '''White Matter (WM)'''
+**** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
+*** '''Gray Matter (GM)'''
+**** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
+*** '''WM + GM'''
+**** '''Disease-specific'''
+***** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
 
 ** '''Developmental'''
-*** [[fMRI/developmental/infants|Infants]]
-*** [[fMRI/developmental/children|Children]]
-*** [[fMRI/developmental/aging_adults|Aging adults]]
+*** '''Infants'''
+**** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
+*** '''Children'''
+**** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
+*** '''Aging adults'''
+**** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
 
 * '''☢ PET / SPECT'''
-** [[PET-SPECT/PET|PET]]
-** [[PET-SPECT/SPECT|SPECT]]
+** '''PET'''
+*** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
+** '''SPECT'''
+*** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
 
 * '''🧠 Structural MRI (sMRI)'''
-** [[sMRI/low-order|Low-order]]
-** [[sMRI/high-order|High-order]]
+** '''Low-order'''
+*** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
+** '''High-order'''
+*** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
 
 * '''🌐 Diffusion MRI (dMRI)'''
-** [[dMRI/high-order|High-order]]
+** '''dMRI/high-order|High-order'''
+*** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
