@@ -66,9 +66,6 @@ Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki
     <th align="left">
         dMRI
     </th>
-    <th align="left">
-        Legacy
-    </th>
   </tr>
   <tr>
     <td valign="top">
@@ -91,12 +88,7 @@ Legacy Templates: <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki
   <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark MODA x.x modelorder-yyy</a><br>
       &#8226; yyyyyy<br>
     </td>
-    <td valign="top">
-      &#8226; FILL IN INFO HERE<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&#8226;
-  <a href="https://github.com/MahShidF/gift/tree/master/doc/wiki/neuromark/fMRI/single_scale/ultra-high-order">Neuromark MODA x.x modelorder-yyy</a><br>
-      &#8226; yyyyyy<br>
-    </td>
+
   </tr>
 </table>
 
