@@ -2,8 +2,8 @@
 
 * '''🧠 fMRI'''
 ** '''Single-scale model order'''
-*** [[fMRI/single_scale/low-order|Low-order]]
-**** [[Neuromark MODA x.x modelorder-yyy|Low-order]]
+*** '''Low-order'''
+**** [[MRI/single_scale/low-order|Neuromark MODA x.x modelorder-yyy]]
 *** [[fMRI/single_scale/high-order|High-order]]
 *** [[fMRI/single_scale/ultra-high-order|Ultra-high-order]]
 
